@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Prajapati</h1>
-<h3 align="center">I am a passionate learner. Trying new things and applying.</h3>
+<h3 align="center"><b>I am a passionate learner. Trying new things and applying.</b></h3>
 
 - 🌱 I’m currently learning **Frontend Devlopment**
 
