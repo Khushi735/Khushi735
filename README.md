@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Prajapati</h1>
-<h3 align="center"><b>I am a passionate learner. Trying new things and applying.</b></h3>
+<h3 align="center">I am a passionate learner. Trying new things and applying.</h3>
 
-- 🌱 I’m currently learning **Frontend Devlopment**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi735" alt="khushi735" /></a> </p>
+
+- 🌱 Currently learning **Frontend Devlopment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
