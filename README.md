@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushi Prajapati</h1>
 <h3 align="center">I am a passionate learner. Trying new things and applying.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi735" alt="khushi735" /></a> </p>
-
 - 🌱 Currently learning **Frontend Devlopment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-prajapati-a0a036256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-prajapati-a0a036256/" height="30" width="40" /></a>
 <a href="https://instagram.com/khushi_prajapati___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushi_prajapati___" height="30" width="40" /></a>
 <a href="https://medium.com/@khushiprajapati735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khushiprajapati735" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khushiprajapati4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushiprajapati4" height="30" width="40" /></a>
