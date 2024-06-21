@@ -23,7 +23,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Prajapati</h1>
 <h3 align="center">I am a passionate learner. Trying new things and applying.</h3>
 
-- 🌱 Currently learning **Frontend Devlopment**
+- 🌱 Currently learning Web Devlopment
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
